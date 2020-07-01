@@ -1,2 +1,6 @@
 this is for test. what to do now. date 3006
+<<<<<<< HEAD
 testing for jenkins
+=======
+Hello Today is 2nd July.sfsfsfsfsfsfsf
+>>>>>>> f7dca55f14f7eb3eaecce346de915c8629263e02
